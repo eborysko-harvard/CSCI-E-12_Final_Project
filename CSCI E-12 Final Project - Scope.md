@@ -78,7 +78,7 @@ The site will be implement is three iterations. The first iteration is consider 
 
 Initial site structure for website. Diagram includes a key / legend to indicate which iteration each part of the website will be delivered.
 
-![Site Structure]( /assets/structure.svg?raw=true "Team Alex Marathon Challenge Site Structure")
+![Site Structure](https://cdn.rawgit.com/eborysko-harvard/CSCI-E-12_Final_Project/master/assets/structure.svg "Team Alex Marathon Challenge Site Structure")
 
 ### Site Content Details
 _(P)_ Page, _(C)_ Content Section, or _(A)_ Application
